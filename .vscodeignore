@@ -1,0 +1,5 @@
+build.js
+images/*.png
+!images/icon.png
+.gitignore
+*.vsix

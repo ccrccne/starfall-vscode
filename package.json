@@ -1,0 +1,21 @@
+{
+    "name": "starfall-theme",
+    "displayName": "Starfall Theme",
+    "description": "Un tema azul cielo con estrellas: Starfall Night para la noche y Starfall Day para el día.",
+    "version": "1.0.0",
+    "publisher": "ccrccne",
+    "author": { "name": "ccrccne" },
+    "license": "MIT",
+    "icon": "images/icon.png",
+    "galleryBanner": { "color": "#0f1a3d", "theme": "dark" },
+    "repository": { "type": "git", "url": "https://github.com/ccrccne/starfall-vscode" },
+    "keywords": ["theme", "dark", "light", "blue", "stars", "cute", "pastel"],
+    "engines": { "vscode": "^1.70.0" },
+    "categories": ["Themes"],
+    "contributes": {
+        "themes": [
+            { "label": "Starfall Night", "uiTheme": "vs-dark", "path": "./themes/starfall-night-color-theme.json" },
+            { "label": "Starfall Day", "uiTheme": "vs", "path": "./themes/starfall-day-color-theme.json" }
+        ]
+    }
+}
