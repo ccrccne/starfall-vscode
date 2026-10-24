@@ -12,9 +12,6 @@ Un tema para VS Code con los colores del cielo: azul, amarillo estrella y un toq
 Los dos usan la misma paleta, así que puedes cambiar de uno a otro sin perderte en el código.
 
 ## Instalación
-**Desde la tienda:** busca "Starfall Theme" en la pestaña de extensiones de VS Code.
-
-**Desde el archivo:**
 1. Descarga el `.vsix` de [Releases](https://github.com/ccrccne/starfall-vscode/releases).
 2. En VS Code abre la pestaña de extensiones, pulsa `···` → **Instalar desde VSIX…** y elige el archivo.
 
